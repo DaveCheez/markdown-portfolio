@@ -1,1 +1,1 @@
-[My profile link] (github.com/davecheez)
+[My profile link] (https://github.com/davecheez)
